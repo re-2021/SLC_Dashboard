@@ -20,6 +20,6 @@ fs.readdirSync(folder).forEach(file => {
     
 });
 
-console.log(actors);
-console.log(constraints.length);
-console.log(goals.length);
+console.log("actors: ",actors);
+console.log("constraints: ",constraints.length);
+console.log("goals: ",goals.length);

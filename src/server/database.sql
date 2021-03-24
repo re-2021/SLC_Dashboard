@@ -16,6 +16,4 @@ create table dashboard(
 );
 
 insert into dashboard(tconst,nconst,dconst,uconst,tgoals,ngoals,dgoals,ugoals,tactors,nactors,dactors,uactors)
-values (19,19,0,19,34,34,0,34,4,4,0,4);
-
-alter sequence iteration restart with x;
+values (constraints,constraints,0,constraints,goals,goals,0,goals,actors,actors,0,actors);

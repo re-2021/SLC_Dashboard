@@ -1,0 +1,18 @@
+- download the zip file from the github url
+- go to pgadmin4
+- create a database 'reproject'
+- open the query tool.
+- in the project directory go to src/server and open database.sql with a text editor.
+- copy the two create commands and paste it into the query tool. now run this query.
+- open the queries.js file in the server folder with a text editor. replace the password and other details of the database.
+- now open a command line tool in the server folder.
+- run npm install.
+- run node filereadtemp.js
+- Take the output values and replace them in the insert into command mentioned in the database.sql file.
+- run that command into the query tool of pgadmin4.
+- go to src/client folder and open another commandline tool there. 
+- run npm install there. 
+- In the server cmd run node index.js
+- In the client cmd run npm start.
+- The dashboard will open in the browser automatically, if it doesn't go to localhost:3000.
+- The dashboard is running now.

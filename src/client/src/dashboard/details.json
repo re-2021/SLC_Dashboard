@@ -1,0 +1,7 @@
+[
+    {"Iteration": "1", "CTotal": "5", "CNew": "6", "CRemoved": "0", "GTotal": "4", "GNew": "1", "GRemoved": "0", "GUpdated": "2", "ATotal": "2", "ANew": "4", "ARemoved": "0","AUpdated": "2"},
+    {"Iteration": "2", "CTotal": "7", "CNew": "3", "CRemoved": "4", "GTotal": "5", "GNew": "2", "GRemoved": "1", "GUpdated": "1","ATotal": "3", "ANew": "3", "ARemoved": "2", "AUpdated": "1"},
+    {"Iteration": "3", "CTotal": "6", "CNew": "2", "CRemoved": "2", "GTotal": "3", "GNew": "6", "GRemoved": "1", "GUpdated": "1","ATotal": "3", "ANew": "4", "ARemoved": "3", "AUpdated": "3"},
+    {"Iteration": "4", "CTotal": "8", "CNew": "3", "CRemoved": "1", "GTotal": "2", "GNew": "2", "GRemoved": "2", "GUpdated": "2","ATotal": "4", "ANew": "3", "ARemoved": "2", "AUpdated": "2"}
+
+]

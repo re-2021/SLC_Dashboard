@@ -1,3 +1,4 @@
 # SLC_Dashboard
 
-Download all the files in SLC-Dashboard repository. Open the User Manual document and follow the steps mentioned precisely.
+Download all the files in SLC-Dashboard repository.
+Follow the Installation video and Dashboard working video.
